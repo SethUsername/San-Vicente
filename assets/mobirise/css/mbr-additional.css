@@ -1372,9 +1372,11 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qVkDiwLKLK {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-qVqUKzZlck {
+  background-image: url("../../../assets/images/yuv-1600x777.jpg");
+}
+.cid-qVqUKzZlck .mbr-section-subtitle {
+  letter-spacing: .2rem;
 }
 .cid-qVlbgDsJXj {
   padding-top: 60px;
